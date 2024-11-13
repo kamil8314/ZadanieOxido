@@ -4,4 +4,4 @@ Program otwiera plik `artykul.txt` i wysyła jego zawartość do OpenAI z prośb
 Dodatkowo program prosi AI o wygenerowanie szablonu do podglądu artykułu i zapisuje go w pliku `szablon.html`.
 
 # INSTRUKCJA URUCHOMIENIA
-Aby uruchomić program wystarczy otworzyć plik `zadanie.py`.
+Aby uruchomić program należy wpisać swój klucz API w pliku `zadanie.py`, a następnie otworzyć ten plik za pomocą Pythona.
